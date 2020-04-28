@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoginViewController.tableView(_:cellForRowAt:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.feedArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.next(sender:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.feedArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
